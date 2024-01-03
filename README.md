@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boukhorissa Nabil</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [The Escape]([https://github.com/Nabzs/C-scripts)
-
-- 🌱 I’m currently learning **JS Frameworks,UX-UI Design**
+- 🌱 I’m currently learning **JS Frameworks,UX-UI Design**, C#
 
 - 👨‍💻 All of my projects are available at (https://boukhorissa-nabil-portfolio.000webhostapp.com/)
 
