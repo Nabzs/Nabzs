@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boukhorissa Nabil</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JS Frameworks,UX-UI Design**,C#,C++,PHP,SQL
+- 🌱 I’m currently learning **HTML, CSS, JS Frameworks, UX-UI Design**, C#, C++, PHP, SQL
 
 - 👨‍💻 All of my projects are available at (https://boukhorissa-nabil.fr/) (NEW ADRESS)
 
