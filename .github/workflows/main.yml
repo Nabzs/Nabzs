@@ -21,7 +21,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             snake.svg
-
+          snake_color: "#000000"          # ← noir au lieu de blanc
+          palette: github-dark            # thème sombre pour le fond
+          
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
