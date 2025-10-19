@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nabil, and I'm a Programming & Computer Science Engineer from Paris</h2>
 
-
 I'm currently pursuing my studies at [ESIEE Paris](https://www.esiee.fr/)
 
 ### 🌱 Currently Learning
