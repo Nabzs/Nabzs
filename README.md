@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nabil, and I'm a Programming & Computer Science Engineer from Paris</h2>
 
-<br>
-
----
-
-<br>
 
 I'm currently pursuing my studies at [ESIEE Paris](https://www.esiee.fr/)
 
@@ -25,11 +20,7 @@ I'm currently pursuing my studies at [ESIEE Paris](https://www.esiee.fr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nabil-boukhorissa/)
 - 📝 [Medium](https://medium.com/@nabilbks)
 
-<br>
-
 ---
-
-<br>
 
 ## 💻 Tech Stack :
 
