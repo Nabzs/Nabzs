@@ -5,8 +5,7 @@ I'm currently pursuing my studies at [ESIEE Paris](https://www.esiee.fr/)
 ### 🌱 Currently Learning
 - 🎨 3D Modeling (Blender, Maya, Houdini)
 - 🌐 Web Development 
-- 🤖 Artificial Intelligence (AI)
-- 🧠 Machine Learning (ML)
+- 🧠 Artificial Intelligence/ Machine Learning
 - ☁️ Cloud Computing
 
 ### 💻 Skills & Interests
